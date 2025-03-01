@@ -1,0 +1,672 @@
+2024-07-07 13:17:19,860 - root - INFO - Program started
+2024-07-07 13:17:20,050 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 13:17:20,050 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 13:17:20,051 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 13:17:20,051 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 13:17:20,051 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 13:17:20,051 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 13:17:20,052 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 13:17:20,052 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 13:17:20,063 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 13:17:20,063 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 13:17:20,063 - root - INFO - Menu initialized with items.
+2024-07-07 13:17:20,063 - root - INFO - Shopping cart initialized.
+2024-07-07 13:17:23,397 - root - INFO - Login process started
+2024-07-07 13:17:31,025 - root - INFO - Displaying menu
+2024-07-07 13:17:36,111 - root - INFO - Added 4 Smartphone to the cart.
+2024-07-07 13:17:36,111 - root - INFO - Displaying menu
+2024-07-07 13:17:38,043 - root - INFO - Viewing cart
+2024-07-07 13:17:38,076 - root - INFO - Total price of cart: $3200
+2024-07-07 13:17:45,691 - root - INFO - Attempting to remove smartphone from cart
+2024-07-07 13:17:48,859 - root - INFO - Removed 1 smartphone from the cart.
+2024-07-07 13:17:48,859 - root - INFO - Displaying menu
+2024-07-07 13:17:55,169 - root - INFO - Added 30 Mouse to the cart.
+2024-07-07 13:17:55,169 - root - INFO - Displaying menu
+2024-07-07 13:18:00,068 - root - INFO - Added 22 Keyboard to the cart.
+2024-07-07 13:18:00,068 - root - INFO - Displaying menu
+2024-07-07 13:18:04,944 - root - INFO - Viewing cart
+2024-07-07 13:18:05,001 - root - INFO - Total price of cart: $9200
+2024-07-07 13:18:05,001 - root - INFO - Displaying menu
+2024-07-07 13:18:12,557 - root - INFO - Added 12 Backpack to the cart.
+2024-07-07 13:18:12,557 - root - INFO - Displaying menu
+2024-07-07 13:18:18,691 - root - INFO - Added 45 Headphones to the cart.
+2024-07-07 13:18:18,691 - root - INFO - Displaying menu
+2024-07-07 13:18:25,724 - root - WARNING - Attempted to add more Headphones than available.
+2024-07-07 13:18:25,724 - root - INFO - Displaying menu
+2024-07-07 13:18:46,733 - root - WARNING - Attempted to add more Headphones than available.
+2024-07-07 13:18:46,733 - root - INFO - Displaying menu
+2024-07-07 13:18:56,622 - root - INFO - Added 2 Headphones to the cart.
+2024-07-07 13:18:56,622 - root - INFO - Displaying menu
+2024-07-07 13:19:08,455 - root - WARNING - Attempted to add more Mouse than available.
+2024-07-07 13:19:08,455 - root - INFO - Displaying menu
+2024-07-07 13:19:15,392 - root - WARNING - Invalid menu choice entered.
+2024-07-07 13:19:15,392 - root - INFO - Displaying menu
+2024-07-07 13:19:21,971 - root - INFO - Added 34 Projector to the cart.
+2024-07-07 13:19:21,971 - root - INFO - Displaying menu
+2024-07-07 13:19:26,522 - root - INFO - Viewing cart
+2024-07-07 13:19:26,622 - root - INFO - Total price of cart: $27050
+2024-07-07 13:19:26,622 - root - INFO - Displaying menu
+2024-07-07 13:19:31,513 - root - INFO - Checking out for user mash
+2024-07-07 13:19:31,763 - root - INFO - Logging order history for user mash
+2024-07-07 13:19:31,764 - root - INFO - Order history logged for user mash
+2024-07-07 13:19:31,764 - root - INFO - Checkout complete. Total bill: $27050
+2024-07-07 13:19:31,764 - root - INFO - Displaying menu
+2024-07-07 13:19:36,813 - root - INFO - Viewing order history for user mash
+2024-07-07 13:19:36,825 - root - INFO - Order history displayed for user mash
+2024-07-07 13:19:37,615 - root - INFO - Displaying menu
+2024-07-07 13:19:51,721 - root - INFO - Program exited
+2024-07-07 13:22:58,639 - root - INFO - Program started
+2024-07-07 13:22:58,797 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 13:22:58,797 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 13:22:58,797 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 13:22:58,797 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 13:22:58,798 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 13:22:58,798 - root - INFO - Menu initialized with items.
+2024-07-07 13:22:58,798 - root - INFO - Shopping cart initialized.
+2024-07-07 13:23:04,007 - root - INFO - Login process started
+2024-07-07 13:23:08,211 - root - INFO - Displaying menu
+2024-07-07 13:23:10,742 - root - INFO - Viewing order history for user mash
+2024-07-07 13:23:10,752 - root - INFO - Order history displayed for user mash
+2024-07-07 13:23:11,371 - root - INFO - Displaying menu
+2024-07-07 13:23:15,554 - root - INFO - Program exited
+2024-07-07 13:28:50,429 - root - INFO - Program started
+2024-07-07 13:28:50,569 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 13:28:50,569 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 13:28:50,570 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 13:28:50,571 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 13:28:50,571 - root - INFO - Menu initialized with items.
+2024-07-07 13:28:50,571 - root - INFO - Shopping cart initialized.
+2024-07-07 13:28:53,562 - root - INFO - Signup process started
+2024-07-07 13:29:10,927 - root - INFO - New user signed up: sarib
+2024-07-07 13:29:15,108 - root - INFO - Program exited
+2024-07-07 13:32:37,755 - root - INFO - Program started
+2024-07-07 13:32:37,963 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 13:32:37,963 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 13:32:37,965 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 13:32:37,965 - root - INFO - Menu initialized with items.
+2024-07-07 13:32:37,965 - root - INFO - Shopping cart initialized.
+2024-07-07 13:33:14,662 - root - INFO - Signup process started
+2024-07-07 22:24:41,116 - root - INFO - Program started
+2024-07-07 22:24:41,342 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:24:41,343 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:24:41,347 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:24:41,349 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:24:41,350 - root - INFO - Menu initialized with items.
+2024-07-07 22:24:41,350 - root - INFO - Shopping cart initialized.
+2024-07-07 22:24:49,627 - root - INFO - Signup process started
+2024-07-07 22:25:03,930 - root - INFO - New user signed up: areebaa
+2024-07-07 22:25:05,045 - root - INFO - Login process started
+2024-07-07 22:25:16,737 - root - INFO - Displaying menu
+2024-07-07 22:25:22,542 - root - INFO - Added 0 Smartphone to the cart.
+2024-07-07 22:25:22,542 - root - INFO - Displaying menu
+2024-07-07 22:25:41,255 - root - INFO - Viewing cart
+2024-07-07 22:25:41,293 - root - INFO - Total price of cart: $0
+2024-07-07 22:25:46,358 - root - INFO - Attempting to remove smartphone from cart
+2024-07-07 22:25:47,742 - root - INFO - Removed all 0 smartphone from the cart.
+2024-07-07 22:25:47,742 - root - INFO - Displaying menu
+2024-07-07 22:26:09,207 - root - INFO - Login process started
+2024-07-07 22:26:12,415 - root - WARNING - Login failed
+2024-07-07 22:26:28,185 - root - WARNING - Login failed
+2024-07-07 22:26:32,404 - root - WARNING - Login failed
+2024-07-07 22:26:47,037 - root - INFO - Signup process started
+2024-07-07 22:29:52,515 - root - INFO - Program started
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:29:52,712 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:29:52,713 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:29:52,713 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:29:52,713 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:29:52,713 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:29:52,713 - root - INFO - Menu initialized with items.
+2024-07-07 22:29:52,713 - root - INFO - Shopping cart initialized.
+2024-07-07 22:29:58,396 - root - INFO - Signup process started
+2024-07-07 22:34:02,507 - root - INFO - Program started
+2024-07-07 22:34:02,768 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:34:02,769 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:34:02,769 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:34:02,769 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:34:02,771 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:34:02,772 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:34:02,772 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:34:02,772 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:34:02,772 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:34:02,773 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:34:02,774 - root - INFO - Menu initialized with items.
+2024-07-07 22:34:02,774 - root - INFO - Shopping cart initialized.
+2024-07-07 22:34:05,400 - root - INFO - Login process started
+2024-07-07 22:34:10,210 - root - INFO - Displaying menu
+2024-07-07 22:34:15,394 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:34:19,201 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:35:19,315 - root - INFO - Program started
+2024-07-07 22:35:19,462 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:35:19,465 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:35:19,466 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:35:19,466 - root - INFO - Menu initialized with items.
+2024-07-07 22:35:19,466 - root - INFO - Shopping cart initialized.
+2024-07-07 22:35:20,926 - root - INFO - Login process started
+2024-07-07 22:35:28,298 - root - INFO - Displaying menu
+2024-07-07 22:35:42,056 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:35:45,262 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:35:48,702 - root - WARNING - Attempted to add more Laptop than available.
+2024-07-07 22:35:51,798 - root - INFO - Added 30 Laptop to the cart.
+2024-07-07 22:35:51,798 - root - INFO - Displaying menu
+2024-07-07 22:36:01,045 - root - INFO - Viewing cart
+2024-07-07 22:36:01,076 - root - INFO - Total price of cart: $30000
+2024-07-07 22:36:07,410 - root - INFO - Attempting to remove laptop from cart
+2024-07-07 22:36:21,346 - root - INFO - Program started
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:36:21,396 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:36:21,396 - root - INFO - Menu initialized with items.
+2024-07-07 22:36:21,396 - root - INFO - Shopping cart initialized.
+2024-07-07 22:36:23,473 - root - INFO - Login process started
+2024-07-07 22:36:29,461 - root - WARNING - Login failed
+2024-07-07 22:36:43,720 - root - INFO - Displaying menu
+2024-07-07 22:37:01,427 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:37:02,714 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:37:05,012 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:37:07,177 - root - INFO - Added 45 Headphones to the cart.
+2024-07-07 22:37:07,177 - root - INFO - Displaying menu
+2024-07-07 22:37:09,375 - root - INFO - Viewing cart
+2024-07-07 22:37:09,406 - root - INFO - Total price of cart: $6750
+2024-07-07 22:37:15,953 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 22:37:19,101 - root - INFO - Removed 0 headphones from the cart.
+2024-07-07 22:37:19,101 - root - INFO - Displaying menu
+2024-07-07 22:37:22,491 - root - INFO - Viewing cart
+2024-07-07 22:37:22,531 - root - INFO - Total price of cart: $6750
+2024-07-07 22:37:22,531 - root - INFO - Displaying menu
+2024-07-07 22:37:27,543 - root - INFO - Viewing cart
+2024-07-07 22:37:27,571 - root - INFO - Total price of cart: $6750
+2024-07-07 22:37:35,052 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 22:38:40,959 - root - INFO - Program started
+2024-07-07 22:38:41,257 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:38:41,257 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:38:41,259 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:38:41,260 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:38:41,260 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:38:41,260 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:38:41,261 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:38:41,262 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:38:41,262 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:38:41,262 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:38:41,263 - root - INFO - Menu initialized with items.
+2024-07-07 22:38:41,263 - root - INFO - Shopping cart initialized.
+2024-07-07 22:38:44,387 - root - INFO - Login process started
+2024-07-07 22:38:49,214 - root - INFO - Displaying menu
+2024-07-07 22:38:56,122 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:38:57,590 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:39:00,432 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:39:02,237 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 22:39:04,037 - root - INFO - Added 45 Headphones to the cart.
+2024-07-07 22:39:04,037 - root - INFO - Displaying menu
+2024-07-07 22:39:06,614 - root - INFO - Checking out for user mash
+2024-07-07 22:39:06,704 - root - INFO - Logging order history for user mash
+2024-07-07 22:39:06,704 - root - INFO - Order history logged for user mash
+2024-07-07 22:39:06,704 - root - INFO - Checkout complete. Total bill: $6750
+2024-07-07 22:39:06,704 - root - INFO - Displaying menu
+2024-07-07 22:39:09,537 - root - INFO - Viewing order history for user mash
+2024-07-07 22:39:09,542 - root - INFO - Order history displayed for user mash
+2024-07-07 22:39:10,106 - root - INFO - Displaying menu
+2024-07-07 22:39:28,367 - root - INFO - Program exited
+2024-07-07 22:40:38,191 - root - INFO - Program started
+2024-07-07 22:40:38,275 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 22:40:38,275 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 22:40:38,275 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 22:40:38,276 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 22:40:38,278 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 22:40:38,278 - root - INFO - Menu initialized with items.
+2024-07-07 22:40:38,278 - root - INFO - Shopping cart initialized.
+2024-07-07 22:40:50,373 - root - INFO - Login process started
+2024-07-07 22:40:55,082 - root - INFO - Displaying menu
+2024-07-07 22:40:59,435 - root - INFO - Viewing cart
+2024-07-07 22:40:59,465 - root - INFO - Cart is empty.
+2024-07-07 22:41:03,615 - root - INFO - Attempting to remove wed from cart
+2024-07-07 22:41:03,619 - root - WARNING - wed not found in the cart.
+2024-07-07 22:41:03,619 - root - INFO - Displaying menu
+2024-07-07 22:41:11,997 - root - INFO - Viewing cart
+2024-07-07 22:41:12,023 - root - INFO - Cart is empty.
+2024-07-07 22:41:13,230 - root - INFO - Attempting to remove 0 from cart
+2024-07-07 22:41:13,233 - root - WARNING - 0 not found in the cart.
+2024-07-07 22:41:13,233 - root - INFO - Displaying menu
+2024-07-07 22:41:15,884 - root - INFO - Viewing cart
+2024-07-07 22:41:15,909 - root - INFO - Cart is empty.
+2024-07-07 22:41:19,618 - root - INFO - Attempting to remove 34ee from cart
+2024-07-07 22:41:19,630 - root - WARNING - 34ee not found in the cart.
+2024-07-07 22:41:19,630 - root - INFO - Displaying menu
+2024-07-07 22:41:22,767 - root - INFO - Added 3 Headphones to the cart.
+2024-07-07 22:41:22,767 - root - INFO - Displaying menu
+2024-07-07 22:41:25,518 - root - INFO - Viewing cart
+2024-07-07 22:41:25,556 - root - INFO - Total price of cart: $450
+2024-07-07 22:41:29,396 - root - INFO - Attempting to remove dddsf from cart
+2024-07-07 22:41:29,403 - root - WARNING - dddsf not found in the cart.
+2024-07-07 22:41:29,403 - root - INFO - Displaying menu
+2024-07-07 22:41:37,446 - root - INFO - Viewing cart
+2024-07-07 22:41:37,482 - root - INFO - Total price of cart: $450
+2024-07-07 22:41:40,936 - root - INFO - Attempting to remove sdfsd,. from cart
+2024-07-07 22:41:40,948 - root - WARNING - sdfsd,. not found in the cart.
+2024-07-07 22:41:40,948 - root - INFO - Displaying menu
+2024-07-07 22:41:43,489 - root - INFO - Viewing cart
+2024-07-07 22:41:43,520 - root - INFO - Total price of cart: $450
+2024-07-07 22:41:44,777 - root - INFO - Attempting to remove 0 from cart
+2024-07-07 22:41:44,791 - root - WARNING - 0 not found in the cart.
+2024-07-07 22:41:44,791 - root - INFO - Displaying menu
+2024-07-07 22:45:56,967 - root - INFO - Program started
+2024-07-07 22:48:59,219 - root - INFO - Program started
+2024-07-07 22:51:25,507 - root - INFO - Program started
+2024-07-07 22:51:45,206 - root - INFO - Program started
+2024-07-07 22:53:46,997 - root - INFO - Program started
+2024-07-07 23:00:07,441 - root - INFO - Program started
+2024-07-07 23:00:07,619 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:00:07,619 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:00:07,620 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:00:07,620 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:00:07,620 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:00:07,620 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:00:07,621 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:00:07,621 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:00:07,621 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:00:07,623 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:00:07,623 - root - INFO - Menu initialized with items.
+2024-07-07 23:00:07,623 - root - INFO - Shopping cart initialized.
+2024-07-07 23:00:11,218 - root - INFO - Login process started
+2024-07-07 23:00:17,227 - root - INFO - Displaying menu
+2024-07-07 23:00:21,109 - root - INFO - Viewing cart
+2024-07-07 23:00:21,143 - root - INFO - Cart is empty.
+2024-07-07 23:00:25,481 - root - INFO - Attempting to remove ff from cart
+2024-07-07 23:00:25,494 - root - WARNING - ff not found in the cart.
+2024-07-07 23:00:25,494 - root - INFO - Displaying menu
+2024-07-07 23:00:41,740 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 23:00:43,109 - root - WARNING - Attempted to add zero quantity to the cart.
+2024-07-07 23:00:45,326 - root - INFO - Added 33 Keyboard to the cart.
+2024-07-07 23:00:45,326 - root - INFO - Displaying menu
+2024-07-07 23:00:47,236 - root - INFO - Viewing cart
+2024-07-07 23:00:47,275 - root - INFO - Total price of cart: $6600
+2024-07-07 23:00:52,702 - root - INFO - Attempting to remove fff from cart
+2024-07-07 23:00:52,713 - root - WARNING - fff not found in the cart.
+2024-07-07 23:00:52,713 - root - INFO - Displaying menu
+2024-07-07 23:00:55,132 - root - INFO - Viewing cart
+2024-07-07 23:00:55,164 - root - INFO - Total price of cart: $6600
+2024-07-07 23:01:04,914 - root - INFO - Attempting to remove 32424 from cart
+2024-07-07 23:01:04,922 - root - WARNING - 32424 not found in the cart.
+2024-07-07 23:01:04,922 - root - INFO - Displaying menu
+2024-07-07 23:01:09,280 - root - INFO - Viewing cart
+2024-07-07 23:01:09,317 - root - INFO - Total price of cart: $6600
+2024-07-07 23:01:13,076 - root - INFO - Attempting to remove keyboard from cart
+2024-07-07 23:01:27,690 - root - INFO - Removed all 33 keyboard from the cart.
+2024-07-07 23:01:27,690 - root - INFO - Displaying menu
+2024-07-07 23:01:40,148 - root - INFO - Viewing cart
+2024-07-07 23:01:40,171 - root - INFO - Cart is empty.
+2024-07-07 23:02:50,421 - root - INFO - Attempting to remove dd from cart
+2024-07-07 23:02:50,435 - root - WARNING - dd not found in the cart.
+2024-07-07 23:02:50,435 - root - INFO - Displaying menu
+2024-07-07 23:03:05,388 - root - INFO - Viewing cart
+2024-07-07 23:03:05,419 - root - INFO - Cart is empty.
+2024-07-07 23:03:07,943 - root - INFO - Attempting to remove ff from cart
+2024-07-07 23:03:07,949 - root - WARNING - ff not found in the cart.
+2024-07-07 23:03:07,949 - root - INFO - Displaying menu
+2024-07-07 23:03:14,712 - root - INFO - Added 5 Headphones to the cart.
+2024-07-07 23:03:14,712 - root - INFO - Displaying menu
+2024-07-07 23:03:20,147 - root - INFO - Viewing cart
+2024-07-07 23:03:20,189 - root - INFO - Total price of cart: $750
+2024-07-07 23:03:25,150 - root - INFO - Attempting to remove keyboard from cart
+2024-07-07 23:03:25,155 - root - WARNING - keyboard not found in the cart.
+2024-07-07 23:03:25,155 - root - INFO - Displaying menu
+2024-07-07 23:03:30,967 - root - INFO - Viewing cart
+2024-07-07 23:03:31,006 - root - INFO - Total price of cart: $750
+2024-07-07 23:03:37,844 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 23:17:08,476 - root - INFO - Program started
+2024-07-07 23:17:08,642 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:17:08,642 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:17:08,642 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:17:08,643 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:17:08,643 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:17:08,644 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:17:08,644 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:17:08,644 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:17:08,645 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:17:08,645 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:17:08,645 - root - INFO - Menu initialized with items.
+2024-07-07 23:17:08,645 - root - INFO - Shopping cart initialized.
+2024-07-07 23:17:16,931 - root - WARNING - Invalid main menu choice entered.
+2024-07-07 23:17:18,730 - root - INFO - Login process started
+2024-07-07 23:17:25,252 - root - INFO - Displaying menu
+2024-07-07 23:17:32,411 - root - INFO - Added 4 Headphones to the cart.
+2024-07-07 23:17:32,411 - root - INFO - Displaying menu
+2024-07-07 23:17:35,310 - root - INFO - Viewing cart
+2024-07-07 23:17:35,343 - root - INFO - Total price of cart: $600
+2024-07-07 23:18:00,426 - root - INFO - Attempting to remove hddd from cart
+2024-07-07 23:18:00,437 - root - WARNING - hddd not found in the cart.
+2024-07-07 23:18:00,438 - root - INFO - Displaying menu
+2024-07-07 23:18:03,875 - root - INFO - Viewing cart
+2024-07-07 23:18:03,908 - root - INFO - Total price of cart: $600
+2024-07-07 23:18:13,902 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 23:18:32,797 - root - INFO - Removed all 4 headphones from the cart.
+2024-07-07 23:18:32,797 - root - INFO - Displaying menu
+2024-07-07 23:23:03,487 - root - INFO - Program started
+2024-07-07 23:23:03,637 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:23:03,638 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:23:03,638 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:23:03,638 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:23:03,641 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:23:03,642 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:23:03,643 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:23:03,643 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:23:03,644 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:23:03,644 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:23:03,644 - root - INFO - Menu initialized with items.
+2024-07-07 23:23:03,644 - root - INFO - Shopping cart initialized.
+2024-07-07 23:23:05,622 - root - INFO - Login process started
+2024-07-07 23:23:14,426 - root - INFO - Displaying menu
+2024-07-07 23:23:19,961 - root - INFO - Added 34 Headphones to the cart.
+2024-07-07 23:23:19,961 - root - INFO - Displaying menu
+2024-07-07 23:23:21,899 - root - INFO - Viewing cart
+2024-07-07 23:23:21,947 - root - INFO - Total price of cart: $5100
+2024-07-07 23:23:26,446 - root - INFO - Attempting to remove dd from cart
+2024-07-07 23:23:26,461 - root - WARNING - dd not found in the cart.
+2024-07-07 23:23:34,143 - root - INFO - Displaying menu
+2024-07-07 23:23:40,736 - root - INFO - Viewing cart
+2024-07-07 23:23:40,766 - root - INFO - Total price of cart: $5100
+2024-07-07 23:23:46,226 - root - INFO - Attempting to remove ewee from cart
+2024-07-07 23:23:46,237 - root - WARNING - ewee not found in the cart.
+2024-07-07 23:23:52,714 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 23:24:00,080 - root - INFO - Removed 3 headphones from the cart.
+2024-07-07 23:24:11,439 - root - INFO - Removed all 31 headphones from the cart.
+2024-07-07 23:25:17,796 - root - INFO - Program started
+2024-07-07 23:25:17,949 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:25:17,949 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:25:17,950 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:25:17,951 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:25:17,952 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:25:17,952 - root - INFO - Menu initialized with items.
+2024-07-07 23:25:17,952 - root - INFO - Shopping cart initialized.
+2024-07-07 23:25:22,326 - root - INFO - Login process started
+2024-07-07 23:25:28,459 - root - INFO - Displaying menu
+2024-07-07 23:25:33,476 - root - INFO - Added 34 Smartphone to the cart.
+2024-07-07 23:25:33,476 - root - INFO - Displaying menu
+2024-07-07 23:25:37,795 - root - INFO - Viewing cart
+2024-07-07 23:25:37,827 - root - INFO - Total price of cart: $27200
+2024-07-07 23:25:46,236 - root - INFO - Attempting to remove smartphone from cart
+2024-07-07 23:26:01,364 - root - INFO - Removed 31 smartphone from the cart.
+2024-07-07 23:26:01,364 - root - INFO - Displaying menu
+2024-07-07 23:26:04,728 - root - INFO - Viewing cart
+2024-07-07 23:26:04,762 - root - INFO - Total price of cart: $2400
+2024-07-07 23:26:04,762 - root - INFO - Displaying menu
+2024-07-07 23:29:24,350 - root - INFO - Program started
+2024-07-07 23:29:24,637 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:29:24,637 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:29:24,638 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:29:24,640 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:29:24,640 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:29:24,641 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:29:24,641 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:29:24,644 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:29:24,645 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:29:24,646 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:29:24,646 - root - INFO - Menu initialized with items.
+2024-07-07 23:29:24,647 - root - INFO - Shopping cart initialized.
+2024-07-07 23:29:28,545 - root - INFO - Login process started
+2024-07-07 23:29:36,865 - root - WARNING - Login failed
+2024-07-07 23:30:06,395 - root - WARNING - Login failed
+2024-07-07 23:30:19,661 - root - WARNING - Login failed
+2024-07-07 23:31:05,231 - root - INFO - Program started
+2024-07-07 23:31:05,512 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:31:05,512 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:31:05,512 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:31:05,512 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:31:05,515 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:31:05,515 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:31:05,515 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:31:05,516 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:31:05,516 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:31:05,517 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:31:05,519 - root - INFO - Menu initialized with items.
+2024-07-07 23:31:05,520 - root - INFO - Shopping cart initialized.
+2024-07-07 23:31:07,896 - root - INFO - Signup process started
+2024-07-07 23:31:27,521 - root - INFO - New user signed up: mash
+2024-07-07 23:31:30,803 - root - INFO - Login process started
+2024-07-07 23:31:36,104 - root - WARNING - Login failed
+2024-07-07 23:31:45,815 - root - INFO - Displaying menu
+2024-07-07 23:31:52,300 - root - INFO - Added 4 Headphones to the cart.
+2024-07-07 23:31:52,300 - root - INFO - Displaying menu
+2024-07-07 23:31:54,724 - root - INFO - Viewing cart
+2024-07-07 23:31:54,763 - root - INFO - Total price of cart: $600
+2024-07-07 23:32:02,242 - root - INFO - Attempting to remove headphones from cart
+2024-07-07 23:32:07,653 - root - INFO - Removed all 4 headphones from the cart.
+2024-07-07 23:32:07,653 - root - INFO - Displaying menu
+2024-07-07 23:32:14,878 - root - INFO - Viewing cart
+2024-07-07 23:32:14,902 - root - INFO - Cart is empty.
+2024-07-07 23:32:14,902 - root - INFO - Displaying menu
+2024-07-07 23:32:17,935 - root - INFO - Checking out for user mash
+2024-07-07 23:32:17,994 - root - INFO - Logging order history for user mash
+2024-07-07 23:32:17,995 - root - INFO - Order history logged for user mash
+2024-07-07 23:32:17,995 - root - INFO - Checkout complete. Total bill: $0
+2024-07-07 23:32:17,995 - root - INFO - Displaying menu
+2024-07-07 23:32:20,987 - root - INFO - Viewing order history for user mash
+2024-07-07 23:32:21,002 - root - INFO - Order history displayed for user mash
+2024-07-07 23:32:21,019 - root - INFO - Displaying menu
+2024-07-07 23:32:26,330 - root - INFO - Program exited
+2024-07-07 23:44:40,714 - root - INFO - Program started
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-07 23:44:41,020 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-07 23:44:41,020 - root - INFO - Menu initialized with items.
+2024-07-07 23:44:41,020 - root - INFO - Shopping cart initialized.
+2024-07-07 23:44:44,889 - root - INFO - Login process started
+2024-07-07 23:44:51,365 - root - INFO - Displaying menu
+2024-07-07 23:44:58,932 - root - INFO - Added 34 Keyboard to the cart.
+2024-07-07 23:44:58,932 - root - INFO - Displaying menu
+2024-07-07 23:45:00,191 - root - INFO - Viewing cart
+2024-07-07 23:45:00,222 - root - INFO - Total price of cart: $6800
+2024-07-07 23:45:03,848 - root - INFO - Attempting to remove keyboard from cart
+2024-07-07 23:45:11,195 - root - INFO - Removed 3 keyboard from the cart.
+2024-07-07 23:45:11,195 - root - INFO - Displaying menu
+2024-07-07 23:45:14,124 - root - INFO - Checking out for user mash
+2024-07-07 23:45:14,230 - root - INFO - Logging order history for user mash
+2024-07-07 23:45:14,240 - root - INFO - Order history logged for user mash
+2024-07-07 23:45:14,241 - root - INFO - Checkout complete. Total bill: $6200
+2024-07-07 23:45:14,241 - root - INFO - Displaying menu
+2024-07-07 23:45:14,601 - root - WARNING - Invalid menu choice entered.
+2024-07-07 23:45:14,601 - root - INFO - Displaying menu
+2024-07-07 23:45:23,467 - root - INFO - Viewing order history for user mash
+2024-07-07 23:45:23,481 - root - INFO - Order history displayed for user mash
+2024-07-07 23:45:23,521 - root - INFO - Displaying menu
+2024-07-07 23:45:28,248 - root - INFO - Login process started
+2024-07-07 23:45:31,351 - root - WARNING - Login failed
+2024-07-07 23:45:36,943 - root - WARNING - Login failed
+2024-07-07 23:45:44,571 - root - INFO - Program exited
+2024-07-08 15:59:22,890 - root - INFO - Program started
+2024-07-08 15:59:22,895 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-08 15:59:22,896 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-08 15:59:22,896 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-08 15:59:22,897 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-08 15:59:22,897 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-08 15:59:22,897 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-08 15:59:22,898 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-08 15:59:22,898 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-08 15:59:22,898 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-08 15:59:22,898 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-08 15:59:22,899 - root - INFO - Menu initialized with items.
+2024-07-08 15:59:22,899 - root - INFO - Shopping cart initialized.
+2024-07-08 15:59:27,329 - root - INFO - Login process started
+2024-07-08 15:59:36,450 - root - WARNING - Login failed
+2024-07-08 15:59:58,424 - root - INFO - Displaying menu
+2024-07-08 16:00:08,548 - root - INFO - Added 5 Laptop to the cart.
+2024-07-08 16:00:08,549 - root - INFO - Displaying menu
+2024-07-08 16:00:10,269 - root - INFO - Viewing cart
+2024-07-08 16:00:10,271 - root - INFO - Total price of cart: $5000
+2024-07-08 16:00:13,477 - root - INFO - Attempting to remove e from cart
+2024-07-08 16:00:13,478 - root - WARNING - e not found in the cart.
+2024-07-08 16:00:13,479 - root - INFO - Displaying menu
+2024-07-08 16:00:17,359 - root - INFO - Viewing cart
+2024-07-08 16:00:17,362 - root - INFO - Total price of cart: $5000
+2024-07-08 16:00:20,894 - root - INFO - Attempting to remove 4 from cart
+2024-07-08 16:00:20,896 - root - WARNING - 4 not found in the cart.
+2024-07-08 16:00:20,896 - root - INFO - Displaying menu
+2024-07-08 16:00:22,925 - root - INFO - Viewing cart
+2024-07-08 16:00:22,925 - root - INFO - Total price of cart: $5000
+2024-07-08 16:00:27,204 - root - INFO - Attempting to remove 76rf8tv 6 from cart
+2024-07-08 16:00:27,205 - root - WARNING - 76rf8tv 6 not found in the cart.
+2024-07-08 16:00:27,206 - root - INFO - Displaying menu
+2024-07-08 16:00:28,739 - root - INFO - Viewing cart
+2024-07-08 16:00:28,739 - root - INFO - Total price of cart: $5000
+2024-07-08 16:00:29,199 - root - INFO - Attempting to remove  from cart
+2024-07-08 16:00:29,199 - root - WARNING -  not found in the cart.
+2024-07-08 16:00:29,199 - root - INFO - Displaying menu
+2024-07-11 10:32:53,296 - root - INFO - Program started
+2024-07-11 10:32:53,304 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-11 10:32:53,304 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-11 10:32:53,305 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-11 10:32:53,305 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-11 10:32:53,306 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-11 10:32:53,306 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-11 10:32:53,307 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-11 10:32:53,307 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-11 10:32:53,307 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-11 10:32:53,308 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-11 10:32:53,308 - root - INFO - Menu initialized with items.
+2024-07-11 10:32:53,309 - root - INFO - Shopping cart initialized.
+2024-07-11 10:33:20,408 - root - INFO - Signup process started
+2024-07-11 10:35:35,250 - root - INFO - New user signed up: duasiddsss
+2024-07-11 10:35:51,087 - root - INFO - Login process started
+2024-07-11 10:36:39,279 - root - INFO - Displaying menu
+2024-07-11 10:37:28,445 - root - INFO - Added 2 Laptop to the cart.
+2024-07-11 10:37:28,446 - root - INFO - Displaying menu
+2024-07-11 10:37:55,111 - root - INFO - Viewing cart
+2024-07-11 10:37:55,113 - root - INFO - Total price of cart: $2000
+2024-07-11 10:37:55,114 - root - INFO - Displaying menu
+2024-07-11 10:38:00,368 - root - INFO - Viewing cart
+2024-07-11 10:38:00,368 - root - INFO - Total price of cart: $2000
+2024-07-11 10:38:19,428 - root - INFO - Attempting to remove Laptop from cart
+2024-07-11 10:38:23,203 - root - INFO - Removed 1 Laptop from the cart.
+2024-07-11 10:38:23,204 - root - INFO - Displaying menu
+2024-07-11 10:38:25,544 - root - INFO - Viewing cart
+2024-07-11 10:38:25,544 - root - INFO - Total price of cart: $1000
+2024-07-11 10:38:25,544 - root - INFO - Displaying menu
+2024-07-11 10:38:33,463 - root - INFO - Checking out for user duasiddsss
+2024-07-11 10:38:33,466 - root - INFO - Logging order history for user duasiddsss
+2024-07-11 10:38:33,475 - root - INFO - Order history logged for user duasiddsss
+2024-07-11 10:38:33,475 - root - INFO - Checkout complete. Total bill: $1000
+2024-07-11 10:38:33,475 - root - INFO - Displaying menu
+2024-07-11 10:38:47,609 - root - INFO - Viewing order history for user duasiddsss
+2024-07-11 10:38:47,627 - root - INFO - Order history displayed for user duasiddsss
+2024-07-11 10:38:47,629 - root - INFO - Displaying menu
+2024-07-11 10:39:10,969 - root - INFO - Viewing order history for user duasiddsss
+2024-07-11 10:39:10,971 - root - INFO - Order history displayed for user duasiddsss
+2024-07-11 10:39:10,972 - root - INFO - Displaying menu
+2024-07-11 10:40:54,212 - root - INFO - Program exited
+2024-07-11 11:34:16,288 - root - INFO - Program started
+2024-07-11 11:34:16,294 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-11 11:34:16,295 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-11 11:34:16,295 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-11 11:34:16,296 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-11 11:34:16,296 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-11 11:34:16,297 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-11 11:34:16,297 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-11 11:34:16,297 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-11 11:34:16,298 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-11 11:34:16,298 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-11 11:34:16,299 - root - INFO - Menu initialized with items.
+2024-07-11 11:34:16,299 - root - INFO - Shopping cart initialized.
+2024-07-11 11:34:38,335 - root - INFO - Signup process started
+2024-07-11 11:35:17,259 - root - INFO - New user signed up: mashaal
+2024-07-11 11:35:22,936 - root - INFO - Login process started
+2024-07-11 11:35:53,416 - root - INFO - Displaying menu
+2024-07-11 11:36:33,195 - root - INFO - Added 23 Laptop to the cart.
+2024-07-11 11:36:33,196 - root - INFO - Displaying menu
+2024-07-11 11:36:37,112 - root - INFO - Viewing cart
+2024-07-11 11:36:37,126 - root - INFO - Total price of cart: $23000
+2024-07-11 11:36:37,126 - root - INFO - Displaying menu
+2024-07-11 11:36:47,822 - root - INFO - Added 34 Smartphone to the cart.
+2024-07-11 11:36:47,822 - root - INFO - Displaying menu
+2024-07-11 11:36:51,577 - root - INFO - Viewing cart
+2024-07-11 11:36:51,579 - root - INFO - Total price of cart: $50200
+2024-07-11 11:37:00,573 - root - INFO - Attempting to remove smartphone from cart
+2024-07-11 11:37:10,776 - root - INFO - Removed 15 smartphone from the cart.
+2024-07-11 11:37:10,776 - root - INFO - Displaying menu
+2024-07-11 11:37:17,967 - root - INFO - Viewing cart
+2024-07-11 11:37:17,970 - root - INFO - Total price of cart: $38200
+2024-07-11 11:37:17,971 - root - INFO - Displaying menu
+2024-07-11 11:37:24,796 - root - INFO - Checking out for user mashaal
+2024-07-11 11:37:24,800 - root - INFO - Logging order history for user mashaal
+2024-07-11 11:37:24,801 - root - INFO - Order history logged for user mashaal
+2024-07-11 11:37:24,802 - root - INFO - Checkout complete. Total bill: $38200
+2024-07-11 11:37:24,802 - root - INFO - Displaying menu
+2024-07-11 11:37:31,222 - root - INFO - Viewing order history for user mashaal
+2024-07-11 11:37:31,233 - root - INFO - Order history displayed for user mashaal
+2024-07-11 11:37:31,235 - root - INFO - Displaying menu
+2024-07-11 11:37:50,686 - root - INFO - Login process started
+2024-07-11 11:37:57,143 - root - INFO - Displaying menu
+2024-07-11 11:38:01,671 - root - INFO - Viewing order history for user mashaal
+2024-07-11 11:38:01,671 - root - INFO - Order history displayed for user mashaal
+2024-07-11 11:38:01,671 - root - INFO - Displaying menu
+2024-07-14 19:06:41,613 - root - INFO - Program started
+2024-07-14 19:06:41,619 - root - DEBUG - Product created: Laptop, Price: 1000, Quantity: 50
+2024-07-14 19:06:41,620 - root - DEBUG - Product created: Smartphone, Price: 800, Quantity: 50
+2024-07-14 19:06:41,620 - root - DEBUG - Product created: Headphones, Price: 150, Quantity: 50
+2024-07-14 19:06:41,620 - root - DEBUG - Product created: Keyboard, Price: 200, Quantity: 50
+2024-07-14 19:06:41,621 - root - DEBUG - Product created: Mouse, Price: 80, Quantity: 50
+2024-07-14 19:06:41,621 - root - DEBUG - Product created: Tablet, Price: 700, Quantity: 50
+2024-07-14 19:06:41,622 - root - DEBUG - Product created: Stylus, Price: 30, Quantity: 50
+2024-07-14 19:06:41,622 - root - DEBUG - Product created: Graphic tablet, Price: 125, Quantity: 50
+2024-07-14 19:06:41,622 - root - DEBUG - Product created: Projector, Price: 300, Quantity: 50
+2024-07-14 19:06:41,623 - root - DEBUG - Product created: Backpack, Price: 50, Quantity: 50
+2024-07-14 19:06:41,623 - root - INFO - Menu initialized with items.
+2024-07-14 19:06:41,623 - root - INFO - Shopping cart initialized.
